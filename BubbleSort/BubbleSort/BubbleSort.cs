@@ -4,7 +4,8 @@
 * PROGRAMMER : Ronnie Skowron
 * FIRST VERSION : 2018-07-09
 * DESCRIPTION :
-* The functions of this file are used to sort an array
+* The functions of this file are used to sort an array
+
 */
 
 using System;
@@ -21,14 +22,19 @@ namespace BubbleSort
         {
             int[] arrayOfNumbers = new int[] { 12, 13, 6, 27, 26, 4, 11, 12};
 
-            SortArray(arrayOfNumbers);
+            BubbleSortArray(arrayOfNumbers);
 
             Console.ReadKey();
 
         }
 
-
-        static void SortArray(int[] arrayOfNumbers)
+        //
+        // FUNCTION : BubbleSortArray
+        // DESCRIPTION : Sort the int Array using the Bubble Sort Technique
+        // PARAMETERS : int[] array - The array we are checking if it is fully sorted
+        // RETURNS :  N/A
+        //
+        static void BubbleSortArray(int[] arrayOfNumbers)
         {
             int arraySize = arrayOfNumbers.Count();
             bool endOfArray = false;

@@ -1,6 +1,7 @@
-D:\c#\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
-D:\c#\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
-D:\c#\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
-D:\c#\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
-D:\c#\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
-D:\c#\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+D:\c#projkects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\c#projkects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\c#projkects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\c#projkects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\c#projkects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\c#projkects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\c#projkects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
